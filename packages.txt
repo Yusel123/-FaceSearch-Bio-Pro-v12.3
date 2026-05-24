@@ -1,0 +1,18 @@
+# FaceSearch Bio Pro v12.3 — System Dependencies
+# For OpenCV headless and image processing on Streamlit Cloud (Debian-based)
+
+# OpenCV system libraries
+libgl1
+libglib2.0-0
+libsm6
+libxext6
+libxrender-dev
+libgomp1
+
+# Image format support
+libjpeg-dev
+libpng-dev
+libtiff-dev
+
+# SSL/TLS certificates
+ca-certificates
